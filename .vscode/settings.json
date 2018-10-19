@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+      "javascript": "jaavscriptreact"
+    },
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx",
+      "javascript": "html"
+    }
+  }
+}
